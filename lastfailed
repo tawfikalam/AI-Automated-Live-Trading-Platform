@@ -1,0 +1,6 @@
+{
+  "backend/tests/test_ccxt_broker.py::test_ccxt_broker_unconfigured_summary": true,
+  "ccxt-master/ccxt-master/python/ccxt/pro/test/base/test_abnormal_close.py": true,
+  "ccxt-master/ccxt-master/python/ccxt/pro/test/base/test_close.py": true,
+  "ccxt-master/ccxt-master/python/ccxt/test": true
+}
